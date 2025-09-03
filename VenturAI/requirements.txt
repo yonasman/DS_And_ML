@@ -1,0 +1,12 @@
+# Core
+python-dotenv
+chromadb
+requests  # for Grok API calls
+
+# Utils
+pandas
+numpy
+
+# Dev
+pytest
+jupyter
